@@ -1,1 +1,1 @@
-# signateデータアナリスト
+# signate
